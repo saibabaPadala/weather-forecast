@@ -1,6 +1,5 @@
-thead,
-tfoot {
-  background-color: #3f87a6;
+.thead{
+  background-color: #d36c28 !important;
   color: #fff;
 }
 
@@ -13,7 +12,8 @@ caption {
   caption-side: bottom;
 }
 
-table {
+table,
+.table{
   border-collapse: collapse;
   border: 2px solid rgb(200, 200, 200);
   letter-spacing: 1px;
